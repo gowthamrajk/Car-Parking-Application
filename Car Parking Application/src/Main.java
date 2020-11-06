@@ -65,7 +65,7 @@ public class Main {
 		String username=sc.next();
 		System.out.println("Enter the password");
 		String password=sc.next();
-		if(username.equals("bharath")&& password.equals("123456")) {
+		if(username.equals("gowtham")&& password.equals("1234")) {
 			parking.status();
 			return true;
 		}
